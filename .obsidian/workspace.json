@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff5b233f9a39f963",
+        "id": "e25c476299eff55d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b32d6c26456fcf8",
+            "id": "5432444f79d03718",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "myBlog/source/images/2025-03-29/file-20250329203911.png"
+                "file": "myBlog/source/_posts/2025-03-29.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20250329203911"
+              "icon": "lucide-file",
+              "title": "2025-03-29"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myBlog/source/images/2025-03-29/file-20250329203911.png",
+                "file": "myBlog/source/_posts/2025-03-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "file-20250329203911 的大纲"
+              "title": "2025-03-29 的大纲"
             }
           },
           {
@@ -177,13 +179,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b32d6c26456fcf8",
+  "active": "5432444f79d03718",
   "lastOpenFiles": [
-    "myBlog/source/images/2025-03-29/file-20250329203522.png",
-    "myBlog/source/images/2025-03-29/file-20250329203911.png",
-    "myBlog/source/_posts/2025-03-29.md",
-    "myblog/source/images/2025-03-29/file-20250329203522.png",
     "myBlog/source/_posts/git.md",
+    "images/2025-03-29/file-20250329204434.png",
+    "myBlog/source/images/2025-03-29/file-20250329203911.png",
+    "myBlog/source/images/2025-03-29/file-20250329204413.png",
+    "myBlog/source/_posts/2025-03-29.md",
+    "images/2025-03-29",
+    "images",
+    "myBlog/node_modules/hexo-theme-next/source/images/favicon-32x32-next.png",
+    "myBlog/source/images/2025-03-29/file-20250329203522.png",
+    "myblog/source/images/2025-03-29/file-20250329203522.png",
     "myBlog/source/images/git/file-20250329203343.png",
     "myBlog/node_modules/vary/README.md",
     "myBlog/node_modules/vary/package.json",
@@ -197,8 +204,6 @@
     "myBlog/node_modules/utils-merge/index.js",
     "myBlog/node_modules/utils-merge",
     "myBlog/node_modules/to-regex-range/README.md",
-    "myBlog/node_modules/to-regex-range/package.json",
-    "myBlog/node_modules/to-regex-range/index.js",
     "myBlog/node_modules/saxes/README.md",
     "myBlog/node_modules/safe-buffer/README.md",
     "myBlog/node_modules/range-parser/README.md",
@@ -221,9 +226,6 @@
     "myBlog/source/images/2025-03-29/file-20250329202944.png",
     "source/images/2025-03-29/file-20250329202806.png",
     "source/images/git/file-20250329201936.png",
-    "myblog/source/images/git/file-20250329203343.png",
-    "myblog/source/images/2025-03-29/file-20250329202944.png",
-    "myblog/source/images/assets/iamges/markdown/file-20250329162504.png",
     "未命名.canvas"
   ]
 }
