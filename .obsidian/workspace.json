@@ -11,10 +11,14 @@
             "id": "91df98463128b301",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "git"
             }
           }
         ]
@@ -177,21 +181,20 @@
   },
   "active": "91df98463128b301",
   "lastOpenFiles": [
+    "markdown.md",
+    "git.md",
     "Pasted image 20250226142659.png",
     "c55dfe8e3422458b50e985552ef13ba5 - 副本.png",
     "Pasted image 20250226142659 - 副本.png",
     "c55dfe8e3422458b50e985552ef13ba5.png",
     "从0开始做毕设.md",
-    "markdown.md",
     "assets/iamges/markdown/file-20250329162504.png",
     "assets/iamges/markdown/file-20250329162433.png",
     "assets/iamges/markdown/file-20250329162425.png",
     "assets/iamges/markdown/file-20250329162418.png",
     "assets/iamges/markdown",
-    "git.md",
     "assets/iamges/git/file-20250329162355.png",
     "assets/iamges/git/file-20250329162342.png",
-    "assets/iamges/git/file-20250329162332.png",
     "assets/iamges/git",
     "assets/iamges",
     "assets",
