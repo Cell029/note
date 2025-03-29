@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dbda306b61473746",
+        "id": "d0737c26a4234872",
         "type": "tabs",
         "children": [
           {
-            "id": "0c4383e29bcc2bb9",
+            "id": "f3f4ee88aa1a72cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myBlog/source/_posts/git个人理解.md",
+                "file": "myBlog/source/_posts/2025-03-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git个人理解"
+              "title": "2025-03-29"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myBlog/source/_posts/git个人理解.md",
+                "file": "myBlog/source/_posts/2025-03-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git个人理解 的大纲"
+              "title": "2025-03-29 的大纲"
             }
           },
           {
@@ -179,14 +179,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c4383e29bcc2bb9",
+  "active": "f3f4ee88aa1a72cd",
   "lastOpenFiles": [
+    "myBlog/source/_posts/2025-03-29.md",
+    "未命名.canvas",
+    "myBlog/source/_posts/git个人理解.md",
     "myBlog/source/_posts/imagesgit个人理解/file-20250329200207.png",
     "myBlog/source/_posts/imagesgit个人理解",
     "myBlog/source/_posts/images/git个人理解/file-20250329200022.png",
     "myBlog/source/_posts/images/git个人理解",
     "myBlog/source/_posts/images/git个人理解/file-20250329195636.png",
-    "myBlog/source/_posts/git个人理解.md",
     "myBlog/source/_posts/images/git",
     "myBlog/source/_posts/images",
     "myBlog/source/_posts/myBlog/source/images/git/file-20250329195538.png",
@@ -205,7 +207,6 @@
     "myBlog/source/images/assets/iamges/git个人理解/file-20250329175454.png",
     "myBlog/source/images/assets/iamges/markdown/file-20250329162425.png",
     "myBlog/source/images/assets/iamges/markdown/file-20250329162418.png",
-    "myBlog/source/images/assets/iamges/git个人理解/file-20250329175730.png",
     "myBlog/node_modules/hexo-theme-next/languages/README.md",
     "myBlog/node_modules/hexo-theme-next/LICENSE.md",
     "myBlog/node_modules/hexo-theme-next/docs/zh-CN/README.md",
@@ -226,7 +227,6 @@
     "myBlog/node_modules/@types/trusted-types/README.md",
     "myBlog/node_modules/which/README.md",
     "myBlog/node_modules/which/CHANGELOG.md",
-    "myBlog/node_modules/moment/README.md",
-    "未命名.canvas"
+    "myBlog/node_modules/moment/README.md"
   ]
 }
