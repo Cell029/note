@@ -2,6 +2,7 @@
 
 >git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。
 ## 1.1版本控制
+
 >版本控制是一种记录文件内容变化，便于将来查阅某个特定版本。最重要的就是你可以记录文件修改的历史记录，可以查看并切换版本。
 ## 1.2工作机制
 
@@ -15,6 +16,7 @@
 
 ![](assets/iamges/git个人理解/file-20250329161938.png)
 ## 1.3代码托管中心
+
 >就是远程库，如github，可以把本地库push到远程库
 # 2.常用基础命令
 
@@ -51,6 +53,7 @@ git reset --hard 版本号
 ```
 
 ## 2.1文件修改
+
 >修改后的文件需要重新add并commit，红色表示未添加到暂存区，绿色表示已添加进暂存区但未提交到本地库
 
 ![](assets/iamges/git个人理解/file-20250329162012.png)
@@ -283,5 +286,3 @@ D:\Obsidian\obsidianNote\note\myBlog\source\_posts
 ![](myBlog/source/_posts/images/git个人理解/file-20250329195636.png)
 
 ![](myBlog/source/_posts/images/git个人理解/file-20250329200022.png)
-
-![](myBlog/source/_posts/imagesgit个人理解/file-20250329200207.png)
