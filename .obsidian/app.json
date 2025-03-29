@@ -9,6 +9,9 @@
     "downscalePercent": 100
   },
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative",
-  "strictLineBreaks": true
+  "newLinkFormat": "absolute",
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "./myBlog/source/_posts",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "myBlog/source/_posts"
 }
