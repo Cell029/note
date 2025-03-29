@@ -212,6 +212,3 @@ git remote remove 别名
 
 ![](assets/iamges/git/file-20250329162355.png)
 
-更新一下看下能否上传
-
-能上传
