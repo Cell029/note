@@ -181,7 +181,11 @@
   },
   "active": "f3f4ee88aa1a72cd",
   "lastOpenFiles": [
+    "myBlog/source/_posts/images/2025-03-29/file-20250329200501.png",
+    "myBlog/source/_posts/images/2025-03-29",
+    "markdown.md",
     "myBlog/source/_posts/2025-03-29.md",
+    "git个人理解.md",
     "未命名.canvas",
     "myBlog/source/_posts/git个人理解.md",
     "myBlog/source/_posts/imagesgit个人理解/file-20250329200207.png",
@@ -198,9 +202,6 @@
     "myBlog/source/_posts/myBlog",
     "myBlog/source/_posts/myBlog/source/imagesgit",
     "myBlog/source/_posts/markdown.md",
-    "markdown.md",
-    "git个人理解.md",
-    "myBlog/source/_posts/myBlog/source/imagesgit艾师傅",
     "myBlog/source/_posts/myBlog/source/imagesgit/file-20250329194737.png",
     "myBlog/source/images/assets/iamges/markdown/file-20250329162504.png",
     "myBlog/source/images/assets/iamges/markdown/file-20250329162433.png",
@@ -226,7 +227,6 @@
     "myBlog/node_modules/deepmerge/changelog.md",
     "myBlog/node_modules/@types/trusted-types/README.md",
     "myBlog/node_modules/which/README.md",
-    "myBlog/node_modules/which/CHANGELOG.md",
-    "myBlog/node_modules/moment/README.md"
+    "myBlog/node_modules/which/CHANGELOG.md"
   ]
 }
