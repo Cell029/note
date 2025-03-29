@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown.md",
+                "file": "git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "markdown 的大纲"
+              "title": "git 的大纲"
             }
           },
           {
@@ -181,11 +181,11 @@
   },
   "active": "91df98463128b301",
   "lastOpenFiles": [
+    "git.md",
     "assets/iamges/git/file-20250329175730.png",
     "assets/iamges/git/file-20250329175454.png",
     "assets/iamges/git/file-20250329173951.png",
     "markdown.md",
-    "git.md",
     "Pasted image 20250226142659.png",
     "c55dfe8e3422458b50e985552ef13ba5 - 副本.png",
     "Pasted image 20250226142659 - 副本.png",
@@ -194,7 +194,6 @@
     "assets/iamges/markdown/file-20250329162504.png",
     "assets/iamges/markdown/file-20250329162433.png",
     "assets/iamges/markdown/file-20250329162425.png",
-    "assets/iamges/markdown/file-20250329162418.png",
     "assets/iamges/markdown",
     "assets/iamges/git",
     "assets/iamges",

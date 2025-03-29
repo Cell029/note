@@ -36,7 +36,7 @@ git add .
 git add -a
 #提交到本地库
 git commit -m 日志信息 文件名
-#暂存并提交
+#暂存并提交，仅适用于已跟踪的文件，例如修改文件
 git commit -am 信息
 #删除文件
 git rm 文件名
@@ -185,20 +185,23 @@ git checkout 版本号
 ## 5.1创建远程仓库
 
 >在github上创建仓库
-## 5.2创建远程仓库别名
+## 5.2远程仓库操作
+
+>将远程仓库引用到本地仓库，可以在本地仓库进行跟新或者推送
 
 ```bash
 #查看当前所有远程地址别名
 git remote -v
 #添加远程仓库
-git remote add 别名 远程地址
+git remote add 仓库别名 远程地址
 #别名重命名
 git remote rename 旧别名 新别名
-#删除创建的别名
-git remote remove 别名
+#删除引用的远程仓库
+git remote remove 仓库别名
+#修改远程仓库的URL
+git remote set-url 仓库别名 远程地址
 ```
 
->将远程仓库引用到本地仓库，可以对本地仓库进行跟新或者推送
 ## 5.3推送本地分支到远程仓库
 
 ```bash
@@ -258,3 +261,19 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 >```
 
 ![](assets/iamges/git/file-20250329173951.png)
+
+## 6.2路径出错
+
+```bash
+123@LAPTOP-SVEUFK1D MINGW64 /e/learn-git/git01 (master)
+$ git push git-01 new-test
+error: src refspec new-test does not match any
+error: failed to push some refs to 'github.com:Cell029/git-01.git'
+```
+
+**错误原因：**
+>1. 本地仓库并没有远程仓库对应的这个分支
+>2. 本地拥有该分支但是没有切换到这个分支
+
+**解决方法：**
+>确保分支存在并切换到该分支后再推送更新
