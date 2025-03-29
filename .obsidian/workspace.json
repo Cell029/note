@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myBlog/source/_posts/git个人理解.md",
+                "file": "myBlog/source/_posts/git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git个人理解"
+              "title": "git"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myBlog/source/_posts/git个人理解.md",
+                "file": "myBlog/source/_posts/git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git个人理解 的大纲"
+              "title": "git 的大纲"
             }
           },
           {
@@ -181,19 +181,20 @@
   },
   "active": "f3f4ee88aa1a72cd",
   "lastOpenFiles": [
+    "myBlog/source/_posts/images/git/file-20250329201645.png",
+    "myBlog/source/_posts/images/git",
     "myBlog/source/_posts/2025-03-29.md",
     "myBlog/source/_posts/images/2025-03-29/file-20250329200501.png",
     "myBlog/source/_posts/images/2025-03-29",
     "markdown.md",
     "git个人理解.md",
     "未命名.canvas",
-    "myBlog/source/_posts/git个人理解.md",
+    "myBlog/source/_posts/git.md",
     "myBlog/source/_posts/imagesgit个人理解/file-20250329200207.png",
     "myBlog/source/_posts/imagesgit个人理解",
-    "myBlog/source/_posts/images/git个人理解/file-20250329200022.png",
+    "myBlog/source/_posts/images/git/file-20250329200022.png",
     "myBlog/source/_posts/images/git个人理解",
-    "myBlog/source/_posts/images/git个人理解/file-20250329195636.png",
-    "myBlog/source/_posts/images/git",
+    "myBlog/source/_posts/images/git/file-20250329195636.png",
     "myBlog/source/_posts/images",
     "myBlog/source/_posts/myBlog/source/images/git/file-20250329195538.png",
     "myBlog/source/_posts/myBlog/source/images/git",
