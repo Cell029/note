@@ -281,3 +281,5 @@ error: failed to push some refs to 'github.com:Cell029/git-01.git'
 D:\Obsidian\obsidianNote\note\myBlog\source\_posts
 
 ![](myBlog/source/_posts/images/git个人理解/file-20250329195636.png)
+
+![](myBlog/source/_posts/images/git个人理解/file-20250329200022.png)
