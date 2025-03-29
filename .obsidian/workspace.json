@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e6b7dd188b720313",
+        "id": "ff5b233f9a39f963",
         "type": "tabs",
         "children": [
           {
-            "id": "685adde48f74c311",
+            "id": "3b32d6c26456fcf8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "myBlog/source/_posts/2025-03-29.md",
-                "mode": "source",
-                "source": false
+                "file": "myBlog/source/images/2025-03-29/file-20250329203911.png"
               },
-              "icon": "lucide-file",
-              "title": "2025-03-29"
+              "icon": "lucide-image",
+              "title": "file-20250329203911"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myBlog/source/_posts/2025-03-29.md",
+                "file": "myBlog/source/images/2025-03-29/file-20250329203911.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-03-29 的大纲"
+              "title": "file-20250329203911 的大纲"
             }
           },
           {
@@ -179,9 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "685adde48f74c311",
+  "active": "3b32d6c26456fcf8",
   "lastOpenFiles": [
     "myBlog/source/images/2025-03-29/file-20250329203522.png",
+    "myBlog/source/images/2025-03-29/file-20250329203911.png",
+    "myBlog/source/_posts/2025-03-29.md",
     "myblog/source/images/2025-03-29/file-20250329203522.png",
     "myBlog/source/_posts/git.md",
     "myBlog/source/images/git/file-20250329203343.png",
@@ -218,15 +218,12 @@
     "myBlog/node_modules/call-bind-apply-helpers/CHANGELOG.md",
     "myBlog/node_modules/bytes/Readme.md",
     "myBlog/node_modules/bytes/History.md",
-    "myBlog/node_modules/binary-extensions/readme.md",
     "myBlog/source/images/2025-03-29/file-20250329202944.png",
     "source/images/2025-03-29/file-20250329202806.png",
     "source/images/git/file-20250329201936.png",
     "myblog/source/images/git/file-20250329203343.png",
     "myblog/source/images/2025-03-29/file-20250329202944.png",
     "myblog/source/images/assets/iamges/markdown/file-20250329162504.png",
-    "myblog/source/images/assets/iamges/markdown/file-20250329162433.png",
-    "myblog/source/images/assets/iamges/markdown/file-20250329162425.png",
     "未命名.canvas"
   ]
 }
