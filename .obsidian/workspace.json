@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "93777705e7ff0138",
+        "id": "e6b7dd188b720313",
         "type": "tabs",
         "children": [
           {
-            "id": "3a80fd6348e45e4f",
+            "id": "685adde48f74c311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myBlog/source/_posts/git.md",
+                "file": "myBlog/source/_posts/2025-03-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "2025-03-29"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myBlog/source/_posts/git.md",
+                "file": "myBlog/source/_posts/2025-03-29.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git 的大纲"
+              "title": "2025-03-29 的大纲"
             }
           },
           {
@@ -179,53 +179,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a80fd6348e45e4f",
+  "active": "685adde48f74c311",
   "lastOpenFiles": [
+    "myBlog/source/images/2025-03-29/file-20250329203522.png",
+    "myblog/source/images/2025-03-29/file-20250329203522.png",
+    "myBlog/source/_posts/git.md",
+    "myBlog/source/images/git/file-20250329203343.png",
+    "myBlog/node_modules/vary/README.md",
+    "myBlog/node_modules/vary/package.json",
+    "myBlog/node_modules/vary/LICENSE",
+    "myBlog/node_modules/vary/index.js",
+    "myBlog/node_modules/vary/HISTORY.md",
+    "myBlog/node_modules/vary",
+    "myBlog/node_modules/utils-merge/LICENSE",
+    "myBlog/node_modules/utils-merge/package.json",
+    "myBlog/node_modules/utils-merge/README.md",
+    "myBlog/node_modules/utils-merge/index.js",
+    "myBlog/node_modules/utils-merge",
+    "myBlog/node_modules/to-regex-range/README.md",
+    "myBlog/node_modules/to-regex-range/package.json",
+    "myBlog/node_modules/to-regex-range/index.js",
+    "myBlog/node_modules/saxes/README.md",
+    "myBlog/node_modules/safe-buffer/README.md",
+    "myBlog/node_modules/range-parser/README.md",
+    "myBlog/node_modules/range-parser/HISTORY.md",
+    "myBlog/node_modules/has-symbols/README.md",
+    "myBlog/node_modules/has-symbols/CHANGELOG.md",
+    "myBlog/node_modules/hasown/README.md",
+    "myBlog/node_modules/hasown/CHANGELOG.md",
+    "myBlog/node_modules/gopd/README.md",
+    "myBlog/node_modules/gopd/CHANGELOG.md",
+    "myBlog/node_modules/get-proto/README.md",
+    "myBlog/node_modules/get-proto/CHANGELOG.md",
+    "myBlog/node_modules/color-convert/README.md",
+    "myBlog/node_modules/color-convert/CHANGELOG.md",
+    "myBlog/node_modules/chalk/readme.md",
+    "myBlog/node_modules/call-bind-apply-helpers/README.md",
+    "myBlog/node_modules/call-bind-apply-helpers/CHANGELOG.md",
+    "myBlog/node_modules/bytes/Readme.md",
+    "myBlog/node_modules/bytes/History.md",
+    "myBlog/node_modules/binary-extensions/readme.md",
     "myBlog/source/images/2025-03-29/file-20250329202944.png",
-    "myBlog/source/_posts/2025-03-29.md",
+    "source/images/2025-03-29/file-20250329202806.png",
+    "source/images/git/file-20250329201936.png",
+    "myblog/source/images/git/file-20250329203343.png",
     "myblog/source/images/2025-03-29/file-20250329202944.png",
-    "myBlog/source/images/2025-03-29",
     "myblog/source/images/assets/iamges/markdown/file-20250329162504.png",
     "myblog/source/images/assets/iamges/markdown/file-20250329162433.png",
     "myblog/source/images/assets/iamges/markdown/file-20250329162425.png",
-    "myblog/source/images/assets/iamges/git个人理解/file-20250329175454.png",
-    "myblog/source/images/assets/iamges/git个人理解/file-20250329175730.png",
-    "myblog/source/images/assets/iamges/markdown/file-20250329162418.png",
-    "myblog/source/images/assets/iamges/git个人理解/file-20250329173951.png",
-    "myblog/source/images/assets/iamges/git个人理解/file-20250329162355.png",
-    "myblog/source/images/assets/iamges/markdown",
-    "myblog/source/images/assets/iamges/git个人理解",
-    "myblog/source/images/assets/iamges",
-    "myblog/source/_posts/markdown.md",
-    "myblog/source/_posts/git.md",
-    "myblog/source/_posts/2025-03-29.md",
-    "myblog/source/images/assets",
-    "myblog/source/images/2025-03-29",
-    "myblog/source/_posts",
-    "myblog/source/images",
-    "myblog/source",
-    "source/images/2025-03-29",
-    "myBlog/source/_posts/git.md",
-    "markdown.md",
-    "git个人理解.md",
-    "未命名.canvas",
-    "myBlog/source/_posts/markdown.md",
-    "myBlog/node_modules/hexo-theme-next/languages/README.md",
-    "myBlog/node_modules/hexo-theme-next/LICENSE.md",
-    "myBlog/node_modules/hexo-theme-next/docs/zh-CN/README.md",
-    "myBlog/node_modules/hexo-theme-next/docs/ru/README.md",
-    "myBlog/node_modules/hexo-theme-next/docs/zh-CN/CODE_OF_CONDUCT.md",
-    "myBlog/node_modules/hexo-theme-next/docs/zh-CN/CONTRIBUTING.md",
-    "myBlog/node_modules/hexo-theme-next/docs/AUTHORS.md",
-    "myBlog/node_modules/hexo-theme-next/docs/AGPL3.md",
-    "myBlog/node_modules/negotiator/README.md",
-    "myBlog/node_modules/negotiator/HISTORY.md",
-    "myBlog/node_modules/hexo-pagination/README.md",
-    "myBlog/node_modules/hexo-generator-archive/README.md",
-    "myBlog/node_modules/dom-serializer/README.md",
-    "myBlog/node_modules/domelementtype/readme.md",
-    "myBlog/node_modules/domhandler/readme.md",
-    "myBlog/node_modules/deepmerge/readme.md",
-    "myBlog/node_modules/deepmerge/changelog.md"
+    "未命名.canvas"
   ]
 }

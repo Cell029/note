@@ -283,4 +283,3 @@ error: failed to push some refs to 'github.com:Cell029/git-01.git'
 
 D:\Obsidian\obsidianNote\note\myBlog\source\_posts
 
-![](source/images/git/file-20250329201936.png)
